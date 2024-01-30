@@ -1,4 +1,5 @@
 # Java_intro
 <br>
-Introducción a Python. Ejercicios varios.
+Introducción a Java. Ejercicios varios.
+<br>
 Última actualización: jul-2023
